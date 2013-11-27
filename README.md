@@ -1,0 +1,4 @@
+SQLManager
+==========
+
+Project for FWPMC++
